@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+
+<h1>Blogging Website</h1>
+
+ <p>This a blog website with an log in and register function. When logged in you can access the /admin page where the add new blog post can be added or old ones can be deleted. The website has pagination and is pulling the blog posts from the MySQL Database.</p>
+
+<p>The Blog Website is built with laravel for the backend and blade component for the front end.</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -66,5 +72,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
-# blog-website
->>>>>>> 39bc36ad3c2258be6d48f1cfbc40f8e954de89a2
+
+
