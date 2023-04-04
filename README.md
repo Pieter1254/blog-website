@@ -5,7 +5,8 @@
 
 <p>The Blog Website is built with laravel for the backend and blade component for the front end.</p>
 
-<h1>These are some screenshot of the project.</p>
+<h1>These are some screenshot of the project.</h1>
+
 ![Screenshot (77)](https://user-images.githubusercontent.com/77567403/229842896-f34c3997-d581-4755-ba74-67289d3a573f.png)<br>
 ![Screenshot (77)](https://user-images.githubusercontent.com/77567403/229842917-64666385-3723-400e-9265-3bb054e5f774.png)<br>
 ![Screenshot (78)](https://user-images.githubusercontent.com/77567403/229842939-3f0b131a-f045-496a-9aec-a5c672e20290.png)<br>
