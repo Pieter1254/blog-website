@@ -16,6 +16,7 @@
 ![Screenshot (75)](https://user-images.githubusercontent.com/77567403/229843011-e0e8cfc3-6ec6-484a-862b-ed3398d9a0ad.png)<br>
 
 <h1>To run the project locally</h1>
+
 1. Download the files to your pc. <br>
 2. cd the project name.<br>
 3. Then run php artisan serve in terminal.
