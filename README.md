@@ -7,13 +7,13 @@
 
 <h1>These are some screenshot of the project.</p>
 [Screenshot (77)](https://user-images.githubusercontent.com/77567403/229842896-f34c3997-d581-4755-ba74-67289d3a573f.png)<br>
-[Screenshot (77)](https://user-images.githubusercontent.com/77567403/229842917-64666385-3723-400e-9265-3bb054e5f774.png)
-[Screenshot (78)](https://user-images.githubusercontent.com/77567403/229842939-3f0b131a-f045-496a-9aec-a5c672e20290.png)
-[Screenshot (79)](https://user-images.githubusercontent.com/77567403/229842956-bb1b08e9-d8ed-4bfc-a76e-128055c720e1.png)
-[Screenshot (80)](https://user-images.githubusercontent.com/77567403/229842972-6a088b42-6818-4a24-9463-63e3f8c384db.png)
-[Screenshot (81)](https://user-images.githubusercontent.com/77567403/229842982-e185c201-ffd4-4760-8a38-3c6417aca991.png)
-[Screenshot (82)](https://user-images.githubusercontent.com/77567403/229842997-5cbe81d6-edc8-452c-ab29-ca477aff3999.png)
-[Screenshot (75)](https://user-images.githubusercontent.com/77567403/229843011-e0e8cfc3-6ec6-484a-862b-ed3398d9a0ad.png)
+[Screenshot (77)](https://user-images.githubusercontent.com/77567403/229842917-64666385-3723-400e-9265-3bb054e5f774.png)<br>
+[Screenshot (78)](https://user-images.githubusercontent.com/77567403/229842939-3f0b131a-f045-496a-9aec-a5c672e20290.png)<br>
+[Screenshot (79)](https://user-images.githubusercontent.com/77567403/229842956-bb1b08e9-d8ed-4bfc-a76e-128055c720e1.png)<br>
+[Screenshot (80)](https://user-images.githubusercontent.com/77567403/229842972-6a088b42-6818-4a24-9463-63e3f8c384db.png)<br>
+[Screenshot (81)](https://user-images.githubusercontent.com/77567403/229842982-e185c201-ffd4-4760-8a38-3c6417aca991.png)<br>
+[Screenshot (82)](https://user-images.githubusercontent.com/77567403/229842997-5cbe81d6-edc8-452c-ab29-ca477aff3999.png)<br>
+[Screenshot (75)](https://user-images.githubusercontent.com/77567403/229843011-e0e8cfc3-6ec6-484a-862b-ed3398d9a0ad.png)<br>
 
 <h1>To run the project locally</h1>
 1. Download the files to your pc. <br>
